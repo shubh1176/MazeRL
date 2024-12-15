@@ -1,6 +1,6 @@
 # Adaptive Maze Training Environment (AMTE)
 
-An advanced reinforcement learning environment for training and analyzing maze-solving agents.
+A reinforcement learning environment for training and analyzing maze-solving agents.
 
 ## Features
 - Real-time visualization of agent learning
